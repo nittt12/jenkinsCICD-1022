@@ -6,6 +6,7 @@
     <hr>
     <h1>${msg}</h1>
     <h1>Hi there I was updated</h1>
+    <h1>More update with Jenkins!</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 11.0</h3>
 </body>
